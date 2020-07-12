@@ -18,3 +18,6 @@ www.magnetdl.com##div.fill-content:nth-of-type(2)
 www.magnetdl.com##div.fill-content:nth-of-type(12)
 www.magnetdl.com##div.fill-content:nth-of-type(18)
 www.limetorrents.info###content > [href^="https://affiliate.rusvpn.com/click.php"]
+reddit.com##.awardings-bar
+reddit.com###redesign-beta-optin-btn
+reddit.com##.give-gold-button
