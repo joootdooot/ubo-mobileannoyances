@@ -21,3 +21,4 @@ www.limetorrents.info###content > [href^="https://affiliate.rusvpn.com/click.php
 reddit.com##.awardings-bar
 reddit.com###redesign-beta-optin-btn
 reddit.com##.give-gold-button
+www.nsfwyoutube.com##.sidebarright
