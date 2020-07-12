@@ -3,3 +3,4 @@
 www.theatlantic.com##.c-nav__subscribe--lacroix
 www.theatlantic.com##.c-recirc-content
 www.theatlantic.com##.c-recirculation-link
+pastebin.com###notice_hot
