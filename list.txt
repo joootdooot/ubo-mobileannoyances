@@ -22,3 +22,8 @@ reddit.com##.awardings-bar
 reddit.com###redesign-beta-optin-btn
 reddit.com##.give-gold-button
 www.nsfwyoutube.com##.sidebarright
+novafile.com###payment-icons
+novafile.com###tariffs
+novafile.com###non-premium
+novafile.com###secure
+novafile.com###compare
