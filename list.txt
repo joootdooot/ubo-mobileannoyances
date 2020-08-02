@@ -27,3 +27,5 @@ novafile.com###tariffs
 novafile.com###non-premium
 novafile.com###secure
 novafile.com###compare
+imgur.com##.EmeraldBannerV2
+imgur.com##.welcome
