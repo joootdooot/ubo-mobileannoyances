@@ -29,3 +29,11 @@ novafile.com###secure
 novafile.com###compare
 imgur.com##.EmeraldBannerV2
 imgur.com##.welcome
+tabs.ultimate-guitar.com##.SiteWideBanner
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/track_user_actions.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/baremetrics.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/tab_fake_player_container.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/block.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/buy_process_loader.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/public/build/ug_react/202008/cold_start.*.js$script,1p,important
+||tabs.ultimate-guitar.com/static/vendor/*.js$script,1p,important
