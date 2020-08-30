@@ -44,3 +44,4 @@ tabs.ultimate-guitar.com##.js-tab-recommendation
 tabs.ultimate-guitar.com##.ugm-rate
 tabs.ultimate-guitar.com##.js-comments
 ||tabs.ultimate-guitar.com/static/public/build/ug/*/block.*.js$script,1p,important
+tabs.ultimate-guitar.com##.preview
