@@ -45,3 +45,13 @@ tabs.ultimate-guitar.com##.ugm-rate
 tabs.ultimate-guitar.com##.js-comments
 ||tabs.ultimate-guitar.com/static/public/build/ug/*/block.*.js$script,1p,important
 tabs.ultimate-guitar.com##.preview
+imgur.com##.Gallery-EngagementBar
+imgur.com##.Gallery-Sidebar
+imgur.com##.ProfileNavbar-loggedOut
+imgur.com##.Footer-wrapper
+imgur.com##.Navigation-next
+imgur.com##.CommentsList
+||imgur.com/js/ad.*.js$script,1p,important
+||imgur.com/js/comments.*.js$script,1p,important
+||imgur.com/js/footercta.*.js$script,1p,important
+||imgur.com/js/floatingcta.*.js$script,1p,important
