@@ -5,23 +5,23 @@
 ! >>>>>>>> https://raw.githubusercontent.com/joootdooot/ubo-mobileannoyances/master/list.txt
 ! Title: joootdooot additional annoyances list
 
-www.theatlantic.com##.c-nav__subscribe--lacroix
-www.theatlantic.com##.c-recirc-content
-www.theatlantic.com##.c-recirculation-link
+theatlantic.com##.c-nav__subscribe--lacroix
+theatlantic.com##.c-recirc-content
+theatlantic.com##.c-recirculation-link
 pastebin.com###notice_hot
-www.magnetdl.com##[href^="https://go.nordvpn.net/aff_c"]
-www.magnetdl.com###result
-www.magnetdl.com##div.fill-content:nth-of-type(9)
-www.magnetdl.com###magnet
-www.magnetdl.com##div.header-content:nth-of-type(1)
-www.magnetdl.com##div.fill-content:nth-of-type(2)
-www.magnetdl.com##div.fill-content:nth-of-type(12)
-www.magnetdl.com##div.fill-content:nth-of-type(18)
-www.limetorrents.info###content > [href^="https://affiliate.rusvpn.com/click.php"]
+magnetdl.com##[href^="https://go.nordvpn.net/aff_c"]
+magnetdl.com###result
+magnetdl.com##div.fill-content:nth-of-type(9)
+magnetdl.com###magnet
+magnetdl.com##div.header-content:nth-of-type(1)
+magnetdl.com##div.fill-content:nth-of-type(2)
+magnetdl.com##div.fill-content:nth-of-type(12)
+magnetdl.com##div.fill-content:nth-of-type(18)
+limetorrents.info###content > [href^="https://affiliate.rusvpn.com/click.php"]
 reddit.com##.awardings-bar
 reddit.com###redesign-beta-optin-btn
 reddit.com##.give-gold-button
-www.nsfwyoutube.com##.sidebarright
+nsfwyoutube.com##.sidebarright
 novafile.com###payment-icons
 novafile.com###tariffs
 novafile.com###non-premium
@@ -51,6 +51,8 @@ imgur.com##.ProfileNavbar-loggedOut
 imgur.com##.Footer-wrapper
 imgur.com##.Navigation-next
 imgur.com##.CommentsList
+fandom.com###WikiaBar
+imgur.com##.BottomRecirc
 ||imgur.com/js/ad.*.js$script,1p,important
 ||imgur.com/js/comments.*.js$script,1p,important
 ||imgur.com/js/footercta.*.js$script,1p,important
