@@ -9,14 +9,6 @@ theatlantic.com##.c-nav__subscribe--lacroix
 theatlantic.com##.c-recirc-content
 theatlantic.com##.c-recirculation-link
 pastebin.com###notice_hot
-magnetdl.com##[href^="https://go.nordvpn.net/aff_c"]
-magnetdl.com###result
-magnetdl.com##div.fill-content:nth-of-type(9)
-magnetdl.com###magnet
-magnetdl.com##div.header-content:nth-of-type(1)
-magnetdl.com##div.fill-content:nth-of-type(2)
-magnetdl.com##div.fill-content:nth-of-type(12)
-magnetdl.com##div.fill-content:nth-of-type(18)
 limetorrents.info###content > [href^="https://affiliate.rusvpn.com/click.php"]
 reddit.com##.awardings-bar
 reddit.com###redesign-beta-optin-btn
@@ -57,3 +49,7 @@ imgur.com##.BottomRecirc
 ||imgur.com/js/comments.*.js$script,1p,important
 ||imgur.com/js/footercta.*.js$script,1p,important
 ||imgur.com/js/floatingcta.*.js$script,1p,important
+sofrep.com##.top-banner
+sofrep.com###scrollerCTA
+sofrep.com##.bottom-cta
+sofrep.com##.trial
