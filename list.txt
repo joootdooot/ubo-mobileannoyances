@@ -53,3 +53,5 @@ sofrep.com##.top-banner
 sofrep.com###scrollerCTA
 sofrep.com##.bottom-cta
 sofrep.com##.trial
+||truste.com^
+||uptime.com^
