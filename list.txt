@@ -55,3 +55,4 @@ sofrep.com##.bottom-cta
 sofrep.com##.trial
 ||truste.com^
 ||uptime.com^
+github.com##.unsupported-browser
